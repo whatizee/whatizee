@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jibin Sebastian</h1>
 <h3 align="center">A Data Enthusiast</h3>
 
-- 🌱 I’m currently learning **Python, Data Analysis, Tableau**
+- 🌱 I’m currently learning **Python, Data Analysis, Tableau, Julia**
 
 - 👨‍💻 All of my projects are available at [https://github.com/whatizee](https://github.com/whatizee)
 
