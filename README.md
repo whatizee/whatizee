@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jibin Sebastian</h1>
 <h3 align="center">A Data Enthusiast</h3>
 
-- 🌱 I’m currently learning Python, Julia,  CNN, MLOps, Azure AKS, Tableau
+- 🌱 I’m currently learning Python, Julia,  ANN, MLOps, Azure AKS, Tableau
 
 - 👨‍💻 All of my projects are available at [https://github.com/whatizee](https://github.com/whatizee)
 
