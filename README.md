@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jibin Sebastian</h1>
-<h3 align="center">A Data Enthusiast</h3>
+<h3 align="center">A Data Modelling Enthusiast</h3>
 
 - 🌱 I’m currently learning Python, Julia,  ANN, MLOps, Azure AKS, Tableau
 
